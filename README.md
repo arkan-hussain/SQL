@@ -21,4 +21,5 @@
 | [1633-percentage-of-users-attended-a-contest](https://github.com/arkan-hussain/SQL/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/arkan-hussain/SQL/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/arkan-hussain/SQL/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arkan-hussain/SQL/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
